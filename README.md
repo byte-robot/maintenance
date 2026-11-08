@@ -1,2 +1,0 @@
-# maintenance
-maintenance_page
